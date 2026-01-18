@@ -1,0 +1,101 @@
+# depslib dependency file v1.0
+1768641052 source:d:\porashona\codes and projects\compiler_project_c233023\comment_remover.cpp
+	"functions.h"
+	<iostream>
+	<fstream>
+	<string>
+
+1768696524 d:\porashona\codes and projects\compiler_project_c233023\functions.h
+	<string>
+
+1768696314 source:d:\porashona\codes and projects\compiler_project_c233023\main.cpp
+	<bits/stdc++.h>
+	"functions.h"
+
+1768640857 source:d:\porashona\codes and projects\compiler_project_c233023\input.c
+	<stdio.h>
+
+1768648082 source:d:\porashona\codes and projects\compiler_project_c233023\tokenizer.cpp
+	<iostream>
+	<cctype>
+	<cstring>
+	<string>
+	<vector>
+	"functions.h"
+
+1768648082 source:d:\porashona\codes and projects\compiler_project_c233023\syntax_and_semantic_analyzer.cpp
+	<iostream>
+	<sstream>
+	<map>
+	<string>
+	"functions.h"
+
+1768652833 source:d:\porashona\codes and projects\compiler_project_c233023\left_recursion_remover.cpp
+	<iostream>
+	<vector>
+	<sstream>
+	"functions.h"
+
+1768692259 source:d:\porashona\codes and projects\compiler_project_c233023\predictive_parser.cpp
+	<bits/stdc++.h>
+
+1768695520 source:d:\porashona\codes and projects\compiler_project_c233023\intermediate_code_generator.cpp
+	<iostream>
+	<sstream>
+	<vector>
+	<string>
+	<cctype>
+	"functions.h"
+
+1768696524 source:d:\compiler_project_c233023\compiler_project_c233023\code_generator.cpp
+	<iostream>
+	<sstream>
+	<vector>
+	<string>
+	"functions.h"
+
+1768696524 d:\compiler_project_c233023\compiler_project_c233023\functions.h
+	<string>
+
+1768641052 source:d:\compiler_project_c233023\compiler_project_c233023\comment_remover.cpp
+	"functions.h"
+	<iostream>
+	<fstream>
+	<string>
+
+1768695520 source:d:\compiler_project_c233023\compiler_project_c233023\intermediate_code_generator.cpp
+	<iostream>
+	<sstream>
+	<vector>
+	<string>
+	<cctype>
+	"functions.h"
+
+1768652833 source:d:\compiler_project_c233023\compiler_project_c233023\left_recursion_remover.cpp
+	<iostream>
+	<vector>
+	<sstream>
+	"functions.h"
+
+1768696314 source:d:\compiler_project_c233023\compiler_project_c233023\main.cpp
+	<bits/stdc++.h>
+	"functions.h"
+
+1768692259 source:d:\compiler_project_c233023\compiler_project_c233023\predictive_parser.cpp
+	<bits/stdc++.h>
+
+1768648082 source:d:\compiler_project_c233023\compiler_project_c233023\syntax_and_semantic_analyzer.cpp
+	<iostream>
+	<sstream>
+	<map>
+	<string>
+	"functions.h"
+
+1768648082 source:d:\compiler_project_c233023\compiler_project_c233023\tokenizer.cpp
+	<iostream>
+	<cctype>
+	<cstring>
+	<string>
+	<vector>
+	"functions.h"
+

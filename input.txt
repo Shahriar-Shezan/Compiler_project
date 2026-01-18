@@ -1,0 +1,9 @@
+#include<stdio.h>
+int main(){
+    int a, b,c,d; // First Comment
+    a = 10, b =5;
+    c=a+b-1*5.0; /* Multi Line Comment */
+    printf("%d",c); // Second Comment
+    //Last Comment
+    return 0 ;
+}
